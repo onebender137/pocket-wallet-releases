@@ -9,7 +9,7 @@ and Web3 capabilities. It is built by DSDA (ds-da.ca) on top of the
 [bsv-browser](https://github.com/bsv-blockchain/bsv-browser) project and the
 `@bsv/expo-wallet-toolbox`.
 
-- **Website:** [ds-da.ca/pocket](https://ds-da.ca/pocket)
+- **Website:** [ds-da.ca/fundy](https://ds-da.ca/fundy)
 - **Source code:** [onebender137/pocket-wallet](https://github.com/onebender137/pocket-wallet) (private)
 
 ## Downloading the APK
